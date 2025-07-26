@@ -1,5 +1,5 @@
 import React from "react";
 
-const UserContex = React.createContext() // React.craeteContext is metod or function jene userContext name na variable in store
+const UserContext = React.createContext() // React.craeteContext is metod or function jene userContext name na variable in store
 
-export default UserContex;       //output ma thow karyu
+export default UserContext;       //output ma thow karyu
